@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <title>This is the title for the title page</title>
+    <author>Jon Doe</author>
+    <content>
+        <heading>This is a heading</heading>
+        <paragraph>
+            This is a text block. It might contain <emph>some</emph> styles.
+        </paragraph>
+        <paragraph>
+            Second paragraph.
+        </paragraph>
+        <heading>Another heading</heading>
+        <paragraph>
+            Lorem ipsum.
+        </paragraph>
+    </content>
+</doc>
