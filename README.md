@@ -23,11 +23,11 @@ open example/bigdoc.pdf
 ## Examples
 
 * Simple minimal document:
-  * XML: [example/mydoc.xml](blob/main/example/mydoc.xml)
-  * PDF: [example/mydoc.pdf](blob/main/example/mydoc.pdf)
+  * XML: [example/mydoc.xml](example/mydoc.xml)
+  * PDF: [example/mydoc.pdf](example/mydoc.pdf)
 * Bigger document:
-  * XML: [example/bigdoc.xml](blob/main/example/bigdoc.xml)
-  * PDF: [example/bigdoc.pdf](blob/main/example/bigdoc.pdf)
+  * XML: [example/bigdoc.xml](example/bigdoc.xml)
+  * PDF: [example/bigdoc.pdf](example/bigdoc.pdf)
 
 ## References
 
