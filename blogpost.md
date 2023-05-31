@@ -365,11 +365,10 @@ to have the source code not only on github.
 
 Here are some screenshots of the generated pdf:
 
-<div class="images">
-{% include image.html name="mydoc-page-1.jpg" width="200px" %}
-{% include image.html name="mydoc-page-2.jpg" width="200px" %}
-{% include image.html name="mydoc-page-3.jpg" width="200px" %}
-</div>
+<img src="example/mydoc-page-1.jpg" alt="screenshot of page 1" width="200" style="float:left; margin: 5px">
+<img src="example/mydoc-page-2.jpg" alt="screenshot of page 2" width="200" style="float:left; margin: 5px">
+<img src="example/mydoc-page-3.jpg" alt="screenshot of page 3" width="200" style="float:left; margin: 5px">
+<br clear="all">
 
 ## References
 
