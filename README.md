@@ -1,8 +1,10 @@
 # java-xml2pdf-example
 
+⇨ [accompanying blog post](blogpost.md)
+
 Example of how to use [Apache FOP](https://xmlgraphics.apache.org/fop/) to create a PDF document
 in a simple Java application. The application converts a self-defined XML format using
-a XSL stylesheet into [XML-FO](https://www.w3.org/TR/xsl11/#fo-section) and then into PDF.
+a XSL stylesheet into [XSL-FO](https://www.w3.org/TR/xsl11/#fo-section) and then into PDF.
 
 **Features:**
 
